@@ -5,7 +5,7 @@ A Java video game, colorful asteroid game
 
 New Features
 ------------
-There are four kind of floaters:
+Floaters
 * Red: Bomb when falcon collides with it, all asteroid will be killed
 * Yellow: get fire power up(expires in 200 ticks). Fire changes from Bullet to Cruise and Cruise will reflect will it
 touches the edges of the screen
