@@ -2,7 +2,7 @@ Asteroid
 ========
 
 A Java video game, colorful asteroid game
-
+![](https://github.com/xctom/Asteroid/blob/master/ScreenShot.png)
 New Features
 ------------
 Floaters
